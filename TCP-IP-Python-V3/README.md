@@ -1,7 +1,4 @@
----
 
-typora-root-url: ./images
----
 
 English version of the README -> please [click here](./README-EN.md)
 
